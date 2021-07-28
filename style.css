@@ -1,11 +1,22 @@
+/* Common CSS */
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap');
 
 body{
     font-family: 'Poppins', sans-serif;
 }
+
+/* Header Section css */
 .header-bg{
     background-color: #264653;
 }
 .btn-orange{
     background-color: #E76F51;
+}
+
+/* Gray Scale CSS */
+.filter{
+    filter: grayscale(100%);
+}
+.orange-text{
+    color: #E76F51;
 }
