@@ -27,3 +27,6 @@ body{
 .far{
     color: #E76F51;
 }
+.foot p{
+    margin-bottom: 0;
+}
